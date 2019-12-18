@@ -1,6 +1,7 @@
 import csv
 import os
 #this module makes it easy to convert the dates into ISO format, which I can do operations against
+#pip install python-dateutil
 from dateutil.parser import parse
 
 
